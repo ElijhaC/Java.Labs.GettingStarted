@@ -9,7 +9,8 @@
 
 ### Passwords
 
-Consider a password manager like [enpass](https://www.enpass.io/) or [lastpass](https://lastpass.com/) to manage all of your accounts. (This way you can keep track of your Admin password for MySQL, which I guarantee you will otherwise forget.)
+Consider a password manager like [enpass](https://www.enpass.io/) or [lastpass](https://lastpass.com/) to manage all of your accounts. 
+(This way you can keep track of your *Admin password for MySQL*, which I guarantee you will otherwise forget.)
 
 The best bet for this course is to just use the built-in Mac password manager on the laptop.
 
