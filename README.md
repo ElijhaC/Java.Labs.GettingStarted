@@ -16,7 +16,7 @@ The best bet for this course is to just use the built-in Mac password manager on
 
 ### BlueJ
 
-get BlueJ.org
+get BlueJ from https://BlueJ.org/
 
 ### Slack
 
