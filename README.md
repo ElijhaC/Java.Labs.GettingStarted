@@ -14,6 +14,10 @@ Consider a password manager like [enpass](https://www.enpass.io/) or [lastpass](
 
 The best bet for this course is to just use the built-in Mac password manager on the laptop.
 
+### BlueJ
+
+get BlueJ.org
+
 ### Slack
 
 * Visit [Slack's](https://slack.com/downloads/mac) download page.
